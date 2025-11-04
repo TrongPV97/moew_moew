@@ -1,6 +1,6 @@
 const textConfig = {
   text1: "Em Babiiiu <3",
-  text2: "Anh nhắc em, nên cân nhắc khi nhấn nút này",
+  text2: "Anh nhắc emmm, đừng tò mò quá mà nhấn OK",
   text7: "Nhớ giữ lời nhá.hehe! Nào, hãy gửi anh 1 tính từ mà em cảm nhận về anh!",
   text8: "Gửi anh ạ!",
   text9: "Ôi, rất đáng yêu ạ. iu anh, hehe!",
