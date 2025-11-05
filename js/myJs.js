@@ -1,12 +1,12 @@
 const textConfig = {
   text1: "Em Babiiiu <3",
-  text2: "Anh nhắc emmm, đừng tò mò quá mà nhấn OK",
+  text2: "Anh nhắc elm, đừng tò mò quá mà nhấn OK!",
   text7: "Nhớ giữ lời nhá.hehe! Nào, hãy gửi anh 1 tính từ mà em cảm nhận về anh!",
   text8: "Gửi anh ạ!",
   text9: "Ôi, rất đáng yêu ạ. iu anh, hehe!",
-  text10: "Cảm ơn em vì đã xem hết trang web này!",
+  text10: "Cảm ơn em iu vì đã xem hết trang web này!",
   text11: "Anh Yêu Em, rất rất nhiều <3",
-  text12: "Em hãy đỡ lấy tình iu của anh đây, Bằng bằng bằng ....",
+  text12: "Emmm, hãy đỡ lấy tình iu của anh đây, Bằng bằng bằng ....",
 };
 
 $(document).ready(function () {
@@ -30,7 +30,7 @@ $(document).ready(function () {
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "https://cache.giaohangtietkiem.vn/d/ad2d952282dff837421d83bc7e6cae39.jpg?width=337",
+      imageUrl: "https://cache.giaohangtietkiem.vn/d/83fc900cba6517fd920605c4acb4a808.jpg",
       background: '#fff url("img/iput-bg.jpg")',
       imageAlt: "Meowww",
       onOpen: function () {
